@@ -1,8 +1,5 @@
 ## Pull Requests
 
-Before submitting a pull request, please ensure to align with us as we need to establish both technical and business requirements.
-
-
 ### Do
 
 - ...consider to fix bugs over adding features
@@ -10,7 +7,6 @@ Before submitting a pull request, please ensure to align with us as we need to e
 - ...consult us about implementation details
 - ...proper testing before you submit your code
 - ...resolve failed CI pipelines
-
 
 ### Don't
 
