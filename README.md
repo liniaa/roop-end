@@ -72,3 +72,6 @@ Using the `-s/--source`, `-t/--target` and `-o/--output` argument will run the p
 - [ffmpeg](https://ffmpeg.org): for making video related operations easy
 - [deepinsight](https://github.com/deepinsight): for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
 - and all developers behind libraries used in this project.
+
+
+onnxruntime-gpu==1.19.2
