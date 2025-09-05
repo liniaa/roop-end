@@ -3,7 +3,7 @@
 # Pinned versions for Colab compatibility
 torch==2.2.0
 torchvision==0.17.0
-torchaudio==2.0.2
+torchaudio==2.2.0
 safetensors==0.3.3
 transformers==4.30.2
 jax==0.4.23
